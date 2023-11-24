@@ -75,3 +75,5 @@ If you'd like to contribute, please follow these steps:
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/license/mit/) - see the LICENSE file for details.
+
+adamaniada@houtlook.com
